@@ -92,14 +92,13 @@ author_profile: true
 
 ## - Code Highlight 
 
-
-`` ```  Python
+````
+```Python
 	def syntaxHighlight():
 	val = 10
 	return val
-
-``` ``
-
+```
+````
 
 ```Python
 	def syntaxHighlight():
