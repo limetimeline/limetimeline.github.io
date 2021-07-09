@@ -104,6 +104,8 @@ author_profile: true
 
 ```python
 	def syntaxHighlight():
+	val = 10
+	return val
 ```
 
 ## - Inline Highlight
