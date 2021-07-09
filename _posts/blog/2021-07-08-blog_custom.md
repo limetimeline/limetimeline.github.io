@@ -94,9 +94,9 @@ author_profile: true
 
 ````python
 	```Python
-	def syntaxHighlight():
-  val = 10
-	return val
+	  def syntaxHighlight():
+    val = 10
+	  return val
 	```
 ````
 
