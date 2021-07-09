@@ -92,7 +92,7 @@ author_profile: true
 
 ## - Code Highlight 
 
-````python
+````
 ```Python
 	def syntaxHighlight():
 	val = 10
@@ -102,11 +102,11 @@ author_profile: true
 
 <br>
 
-````Python
+```Python
 	def syntaxHighlight():
 	val = 10
 	return val
-````
+```
 
 ## - Inline Highlight
 
