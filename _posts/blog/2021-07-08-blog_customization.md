@@ -102,11 +102,11 @@ author_profile: true
 
 <br>
 
-```Python
+~~~Python
 	def syntaxHighlight():
 	val = 10
 	return val
-```
+~~~
 
 ## - Inline Highlight
 
