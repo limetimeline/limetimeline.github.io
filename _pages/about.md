@@ -13,8 +13,8 @@ toc: true
 <br> &ensp; &ensp; &ensp; &emsp; &emsp; &ensp; &ensp; Information Systems Management Soldier
 
 ## Certificates
-- Network Advisor GradeⅡ &nbsp; (네트워크관리사 1급)
-- Linux Master GradeⅠ &nbsp; (리눅스마스터 1급)
+- Network Advisor Grade Ⅱ &nbsp; (네트워크관리사 1급)
+- Linux Master Grade Ⅰ &nbsp; (리눅스마스터 1급)
 - Computer Literacy Certificate Level-1 &nbsp; (컴퓨터활용능력 1급)
 <br> Computer User in the field of spreadsheet and database, Level-1
 
