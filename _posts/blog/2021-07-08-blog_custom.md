@@ -86,3 +86,32 @@ author_profile: true
 <meta name="theme-color" content="#ffffff">
 ```
 
+# Highlight
+- Code Highlight : Programing Lang을 입력해주면 해당 언어의 변수나 함수에 색을 칠해준다.
+- Inline Highlight : 원하는 문장에 색깔을 입혀 강조할 수 있다.
+
+## Code Highlight 
+
+```python
+	```Python
+	def syntaxHighlight():
+	val = 10
+	return val
+	```
+```
+
+```Python
+	def syntaxHighlight():
+	val = 10
+	return val
+```
+
+## Inline Highlight
+
+```
+	`강조해보자!`
+```
+
+`강조해보자!`
+
+	
