@@ -8,7 +8,7 @@ toc: true
 # Introduce
 ## Education and Experience
 - 2018 ~ Present &emsp; Gyeongsang National University (GNU)
-<br> &emsp; &emsp; &emsp; &emsp; &emsp; Bachelor of Science in Computer Science
+<br> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Bachelor of Science in Computer Science
 - 2019 ~ 2020 &emsp; Republic of Korea Air Force
-<br> &emsp; &emsp; &emsp; &emsp; &emsp; Information Systems Management Soldier
+<br> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Information Systems Management Soldier
 
