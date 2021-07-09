@@ -1,5 +1,5 @@
 ---
-title:  "Blog Custom"
+title:  "Blog Customization"
 excerpt: "minimal-mistake 테마를 사용한 깃허브 블로그를 꾸며보자!"
 categories:
   - Blog
