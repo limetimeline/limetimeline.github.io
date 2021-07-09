@@ -99,7 +99,7 @@ author_profile: true
 	return val
 ```
 ````
-
+<br>
 ```Python
 	def syntaxHighlight():
 	val = 10
