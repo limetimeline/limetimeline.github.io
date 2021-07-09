@@ -90,7 +90,7 @@ author_profile: true
 - Code Highlight : Programing Lang을 입력해주면 해당 언어의 변수나 함수에 색을 칠해준다.
 - Inline Highlight : 원하는 문장에 색깔을 입혀 강조할 수 있다.
 
-## Code Highlight 
+## - Code Highlight 
 
 ```python
 \```Python
@@ -107,7 +107,7 @@ author_profile: true
 	return val
 ```
 
-## Inline Highlight
+## - Inline Highlight
 
 ```
 	`강조해보자!`
