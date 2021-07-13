@@ -118,7 +118,7 @@ author_profile: true
 
 `강조해보자!`
 
-### - Inline Highlight Color
+### └ Inline Highlight Color
 - 배경색과 글자색을 변경해보자.
 - `/assets/css/main.scss`
 
