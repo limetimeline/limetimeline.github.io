@@ -9,6 +9,8 @@ last_modified_at: 2021-07-08
 toc: true
 ---
 
+minimal-mistake 테마를 이용해서 블로그를 커스터마이징 해보자!
+
 # Navigation
 
 - `/_data/navigation.yml`에서 설정.
@@ -116,4 +118,49 @@ author_profile: true
 
 `강조해보자!`
 
+### Inline Highlight Color
+- 배경색과 글자색을 변경해보자.
+- `/assets/css/main.scss`
+
+```css
+	.language-plaintext {
+		font-family: $monospace;
+		font-size: $type-size-5;
+		color: #cd853f; // 글자색
+		background: #c0ffee; // 배경색
+	}
+```
+
+# Thema Skin
+- 테마의 스킨을 마음대로 꾸며보자!
+- `/_sass/minimal-mistakes/skins/_custom.scss`를 만들어 주자!
+
+```css
+/* ==========================================================================
+   Custom Skin (내가 만든 스킨!!) /_sass/minimal-mistakes/skins/_custom.scss
+   ========================================================================== */
+
+/* Colors */
+$background-color: #F2FFED !default; // 배경색
+$text-color: #40514e !default; // 글자색
+$muted-text-color: #40514e !default; // 마우스 커서를 대지 않았을 때 글자색
+$primary-color: #3cb371 !default; // 링크 글자 마우스 댔을 때 색
+$border-color: mix(#fff, #40514e, 75%) !default;
+$footer-background-color: #00fa9a !default; // 바닥배경색
+$link-color: #32cd32 !default; // 링크 글자 마우스 안댔을 때 색
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
+.page__footer {
+  color: #fff !important; // override
+}
+
+.page__footer-follow .social-icons i,
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
+```
+
+- `/_config.yml`에서 `minimal_mistakes_skin`부분에 `"custom"`이라고 수정해주자!
 	
