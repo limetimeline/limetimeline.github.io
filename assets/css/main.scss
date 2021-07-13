@@ -12,7 +12,8 @@ $type-size-4-5: 1.12em !default; // Ubuntu Mono is a bit small
 @import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&family=Nanum+Gothic+Coding:wght@700&display=swap');
 
 .language-plaintext {
-  font-family: $monospace;
+  //font-family: $monospace;
+  font-family: "Gamja Flower";
   font-size: $type-size-7;
   color: #ff7f50;
   background: #ADFF2F;
