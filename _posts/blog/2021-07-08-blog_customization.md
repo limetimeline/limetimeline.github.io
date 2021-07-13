@@ -10,7 +10,6 @@ toc: true
 ---
 
 minimal-mistake 테마를 이용해서 블로그를 커스터마이징 해보자!
-modify
 
 # Navigation
 
