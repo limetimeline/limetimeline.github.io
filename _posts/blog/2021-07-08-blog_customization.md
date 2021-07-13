@@ -70,9 +70,9 @@ author_profile: true
 # favicon
 - 주소창에 아이콘을 적용해보자!
 
-1. https://favicon.io/emoji-favicons 같은 곳에서 원하는 아이콘을 다운로드 받자!
+1. [https://favicon.io/emoji-favicons](https://favicon.io/emoji-favicons) 같은 곳에서 원하는 아이콘을 다운로드 받자!
 2. 압축을 풀어서 안의 파일을 모두 블로그 `Repository 최상위 디렉토리`에 다 넣자!
-3. `png`나 `jpg` 이미지 파일을 https://realfavicongenerator.net/ 에서 `select your favicon image`버튼을 눌러 업로드하자!
+3. `png`나 `jpg` 이미지 파일을 [https://realfavicongenerator.net/](https://realfavicongenerator.net/)에서 `select your favicon image`버튼을 눌러 업로드하자!
 4. 곧 `Generate your Favicons and HTML code`가 나타면 클릭하고 HTML코드를 복사하자!
 5. HTML태그를 `/_includes/head/custom.html`에 붙여넣고 저장하자!
 
