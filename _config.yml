@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "sanghyeon Kim"
+  name             : "Sanghyeon Kim"
   avatar           : /assets/images/profile.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "데굴데굴"
   location         : "Republic of Korea"
