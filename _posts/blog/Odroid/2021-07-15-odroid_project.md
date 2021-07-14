@@ -15,12 +15,12 @@ toc_sticky: true
 
 # ODROID Project with Lock&Lock
 ![hc2_with_lock&lock](/assets/images/odroid/lock&lock.jpg)
-Lock&Lock 케이스 속의 작은 서버.
+<br>Lock&Lock 케이스 속의 작은 서버.
 
 # Specifications
 ![HC2](/assets/images/odroid/HC2.jpg)
-서버의 기반 하드웨어는 하드커널사의 HC2이다.
-<br>HC2는 HomeCloud의 약자이다.
+<br>서버의 기반 하드웨어는 하드커널사의 HC2이다.
+<br>HC2는 `HomeCloud`의 약자이다.
 
 - CPU/GPU : Samsung Exynos5422
 - 2GB LPDDR3 RAM
