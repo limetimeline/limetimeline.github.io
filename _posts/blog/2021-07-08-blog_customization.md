@@ -123,9 +123,9 @@ author_profile: true
 - `/assets/css/main.scss`
 
 ```css
-	.language-plaintext {
-		font-family: $monospace;
-		font-size: $type-size-5;
+	.language-plaintext { // Inline
+		font-family: $monospace; // 폰트
+		font-size: $type-size-5; // 글자 크기. 낮을 수록 크기가 큼
 		color: #cd853f; // 글자색
 		background: #c0ffee; // 배경색
 	}
@@ -163,4 +163,20 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 ```
 
 - `/_config.yml`에서 `minimal_mistakes_skin`부분에 `"custom"`이라고 수정해주자!
-	
+
+# font
+- 폰트를 선택하고 `select this style`을 눌러줍시다. 
+- [구글 폰트!](https://fonts.google.com/)
+- 이 블로그에는 `Gamja Flower`가 적용됨
+- `@import` 코드를 복사해서 `/assets/css/main.scss`에 붙여넣기!
+```css
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap');
+```
+- `/_sass/_variables.scss`에 `font-family` 넣기
+```css
+/* system typefaces */
+$serif: Georgia, Times, serif !default;
+$sans-serif: -apple-system, BlinkMacSystemFont,"Gamja Flower", "Roboto", "Segoe UI",
+  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default; // 먼저 적용된 폰트가 우선하는 듯?
+$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
+```

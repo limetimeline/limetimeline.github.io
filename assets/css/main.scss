@@ -11,10 +11,10 @@ $type-size-4-5: 1.12em !default; // Ubuntu Mono is a bit small
 @import "minimal-mistakes"; // main partials
 @import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&family=Nanum+Gothic+Coding:wght@700&display=swap');
 
-.language-plaintext {
+.language-plaintext { // Inline 
   //font-family: $monospace;
-  font-family: "Gamja Flower";
-  font-size: $type-size-5;
-  color: #ff7f50;
-  background: #ADFF2F;
+  font-family: "Gamja Flower"; // font
+  font-size: $type-size-5; // 폰트크기. 낮을 수록 크기가 큼.
+  color: #ff7f50; // 글자색
+  background: #ADFF2F; // 글자 배경색
 }
