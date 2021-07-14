@@ -176,7 +176,7 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 ```css
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
-/* 먼저 적용된 폰트가 우선하는 듯? "Gamja Flower"를 넣자!*/
+/* 먼저 적용된 폰트가 우선하는 듯? "Gamja Flower"를 넣자! */
 $sans-serif: -apple-system, BlinkMacSystemFont,"Gamja Flower", "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
