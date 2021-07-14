@@ -168,7 +168,7 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 - 폰트를 선택하고 `select this style`을 눌러줍시다. 
 - [구글 폰트!](https://fonts.google.com/)
 - 이 블로그에는 `Gamja Flower`가 적용됨
-- `@import` 코드를 복사해서 `/assets/css/main.scss`에 붙여넣기!
+- `@import` 코드를 복사해서 `📂/assets/css/main.scss`에 붙여넣기!
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap');
 ```
