@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "sanghyeon Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/profile.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "데굴데굴"
   location         : "Republic of Korea"
   email            : "kjhh0608@gmail.com"
