@@ -182,3 +182,18 @@ $sans-serif: -apple-system, BlinkMacSystemFont,"Gamja Flower", "Roboto", "Segoe 
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 ```
+
+# Remove Hyperlink Underline
+- 하이퍼링크 밑줄을 제거해보자!
+- `📂/_sass/_base.scss`
+
+```css
+/* links */
+
+a {
+  /* devinlife : a link 하이퍼링크 밑줄 없애기 */
+  text-decoration: none;
+  &:focus {
+    @extend %tab-focus;
+  }
+```
