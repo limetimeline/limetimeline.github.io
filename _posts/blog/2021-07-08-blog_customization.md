@@ -13,7 +13,7 @@ minimal-mistake 테마를 이용해서 블로그를 커스터마이징 해보자
 
 # Navigation
 
-- `/_data/navigation.yml`에서 설정.
+- `📂/_data/navigation.yml`에서 설정.
 
 ```markdown
 main:
@@ -25,7 +25,7 @@ main:
 
 ## - About
 
-- `/_pages/about.md` 생성
+- `📂/_pages/about.md` 생성
 
 ```markdown
 ---
@@ -38,7 +38,7 @@ main:
 ```
 
 - 이렇게만 적으면 내 프로필이 안나온다!!!
-- `/_config.yml`을 열어서 아래와 같이 추가해주자!
+- `📂/_config.yml`을 열어서 아래와 같이 추가해주자!
 
 ```markdown
 # Defaults
@@ -56,7 +56,7 @@ defaults:
 
 ## - Category
 
-- `/_pages/category-archive.md` 생성
+- `📂/_pages/category-archive.md` 생성
 
 ```markdown
 ---
@@ -71,10 +71,10 @@ author_profile: true
 - 주소창에 아이콘을 적용해보자!
 
 1. [https://favicon.io/emoji-favicons](https://favicon.io/emoji-favicons) 같은 곳에서 원하는 아이콘을 다운로드 받자!
-2. 압축을 풀어서 안의 파일을 모두 블로그 `Repository 최상위 디렉토리`에 다 넣자!
+2. 압축을 풀어서 안의 파일을 모두 블로그 `📂Repository 최상위 디렉토리`에 다 넣자!
 3. `png`나 `jpg` 이미지 파일을 [https://realfavicongenerator.net/](https://realfavicongenerator.net/)에서 `select your favicon image`버튼을 눌러 업로드하자!
 4. 곧 `Generate your Favicons and HTML code`가 나타면 클릭하고 HTML코드를 복사하자!
-5. HTML태그를 `/_includes/head/custom.html`에 붙여넣고 저장하자!
+5. HTML태그를 `📂/_includes/head/custom.html`에 붙여넣고 저장하자!
 
 - 아래 코드를 참고!
 
@@ -120,7 +120,7 @@ author_profile: true
 
 ### └ Inline Highlight Color
 - 배경색과 글자색을 변경해보자.
-- `/assets/css/main.scss`
+- `📂/assets/css/main.scss`
 
 ```css
 	.language-plaintext { // Inline
@@ -133,7 +133,7 @@ author_profile: true
 
 # Thema Skin
 - 테마의 스킨을 마음대로 꾸며보자!
-- `/_sass/minimal-mistakes/skins/_custom.scss`를 만들어 주자!
+- `📂/_sass/minimal-mistakes/skins/_custom.scss`를 만들어 주자!
 
 ```css
 /* ==========================================================================
@@ -162,7 +162,7 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 }
 ```
 
-- `/_config.yml`에서 `minimal_mistakes_skin`부분에 `"custom"`이라고 수정해주자!
+- `📂/_config.yml`에서 `minimal_mistakes_skin`부분에 `"custom"`이라고 수정해주자!
 
 # font
 - 폰트를 선택하고 `select this style`을 눌러줍시다. 
@@ -172,7 +172,7 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap');
 ```
-- `/_sass/_variables.scss`에 `font-family` 넣기
+- `📂/_sass/_variables.scss`에 `font-family` 넣기
 ```css
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
