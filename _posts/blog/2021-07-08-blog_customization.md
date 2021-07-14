@@ -7,6 +7,7 @@ tags:
   - Blog
 last_modified_at: 2021-07-08
 toc: true
+toc_sticky: true
 ---
 
 minimal-mistake 테마를 이용해서 블로그를 커스터마이징 해보자!
