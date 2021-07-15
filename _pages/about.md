@@ -5,7 +5,7 @@ last_modified_at: 2021-07-08
 toc: true
 toc_sticky: true
 ---
-welcome test
+
 # Introduce
 ## Education and Experience
 - 2018 ~ Present &emsp; Gyeongsang National University (GNU)
