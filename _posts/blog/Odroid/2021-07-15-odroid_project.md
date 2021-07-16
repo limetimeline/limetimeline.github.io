@@ -65,10 +65,10 @@ toc_sticky: true
 [OS이미지 다운받기.](https://wiki.odroid.com/odroid-xu4/getting_started/os_installation_guide?redirect=1#tab__odroid-xu4)
 
 위 사이트에서 OS Image를 다운받아 `etcher`을 이용해 SD카드에 구워주면 된다.
-<br> ※ Ubuntu Mate로 시작하겠다.
+<br> ※ `Ubuntu Mate`로 시작하겠다.
 <br> 구워진 SD카드를 HC2에 끼워서 전원을 넣어주면 자동으로 꺼졌다 켜졌다 하면서 시작된다. UART 모듈이 있다면 통신이 간단하겠지만 제일 중요한 IP주소 확인이 필요하다.
 `공유기 필수!`
-<br> 공유기 관리 페이지로 가서 DHCP로 뿌려준 IP 중 `ODROID`라는 이름을 가진 IP주소를 확인하자! 그 후 `Putty`를 이용해서 `SSH`에 접속해주자! (초기포트 : 22)
+<br> 공유기 관리 페이지로 가서 DHCP로 뿌려준 IP 중 `ODROID`라는 이름을 가진 IP주소를 확인하자! 그 후 `Putty`를 이용해서 `SSH`에 접속해주자! `초기포트 : 22`
 <br> ※ 우분투에서 자동으로 SSH를 열어준다.
 
 ```
