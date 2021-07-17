@@ -291,8 +291,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false #true, less than minute read
-      show_date: true
+      read_time: true #true, less than minute read
+      #show_date: true
       comments: true # true
       share: true
       related: true
