@@ -87,7 +87,7 @@ toc_sticky: true
 ```
 
 - Network Setting <br>
-=> netplan으로 네트워크를 설정하고 lightdm과 networkmanager는 GUI에서 동작하지 않으므로 해제.
+=> netplan으로 네트워크를 설정하고 lightdm과 networkmanager는 CLI에서 동작하지 않으므로 해제.
 
 ```shell
 # vi /etc/netplan/01-netcfg.yaml
