@@ -78,7 +78,7 @@ toc_sticky: true
 ```
 
 ## Network Setting
-1. Package Update and Upgrade
+- Package Update and Upgrade
 
 ```shell
 # apt-get update; apt-get upgrade -y; apt-get autoremove -y; apt-get autoclean
@@ -86,7 +86,7 @@ toc_sticky: true
 # apt-get install vim   // vim 에디터 설치
 ```
 
-2. Network Setting <br>
+- Network Setting <br>
 => netplan으로 네트워크를 설정하고 lightdm과 networkmanager는 GUI에서 동작하지 않으므로 해제.
 
 ```shell
@@ -103,7 +103,7 @@ network:
             - 192.168.0.100/24   # 고정IP 지정. 192.168.0.100/24
          gateway4: 192.168.0.1   # 게이트웨이 주소 지정 공유기 IP
          nameservers:
-            addresses [168.126.63.1,8.8.8.8] # DNS 서버 주소 생각나서.
+            addresses [168.126.63.1,8.8.8.8] # DNS 서버 주소
 ```
 
 ```shell
@@ -143,7 +143,7 @@ SSH 포트를 바꿔보자!
    # service sshd restart
 ```
 
-이제 SSH 원격 접속 시 포트를 1234로 변경해야 접속이 가능하고 이전에 SSH 전용 계정인 dorothy로 로그인하여 su명령어로 root로 전환해야 한다.
+이제 SSH 원격 접속 시 포트를 `1234`로 변경해야 접속이 가능하고 이전에 SSH 전용 계정인 dorothy로 로그인하여 su명령어로 root로 전환해야 한다.
 
 # 4. iptables Setting
 최상의 보안 상태를 유지하기 위하여 사용하는 포트 외에 다른 모든 포트는 막아둘 것이다.
@@ -234,7 +234,7 @@ HC2는 `WOL`을 지원하지 않기 때문에 `RTC Wakeup` 기능을 사용.
 <br> `RTC Backup Battery`의 시스템 시간을 저장하는 특징을 이용하여 특정 시간대에 꺼두고 켜기 위함.
 
 -  NTP서버와 RTC Backup Battery 연동
-1. 한국 시간 설정 및 타임서버 동기화
+   - 한국 시간 설정 및 타임서버 동기화
 
 ```shell
    # dpkg-reconfigure tzdata  // 서버 지역 시간 설정. Asia - Seoul
@@ -252,7 +252,7 @@ HC2는 `WOL`을 지원하지 않기 때문에 `RTC Wakeup` 기능을 사용.
          10 * * * * root /sh/ntpsynchronization.sh   # 10 분 주기로 계속 동기화 스크립트 실행
 ```
 
-2. RTC Wakeup 설정
+- RTC Wakeup 설정
    6시간 후에 켜지도록 작성된 쉘 스크립트를 1시에 실행되게 하여 아침 7시에 켜지도록 설정.
 
 ```shell
@@ -303,7 +303,7 @@ OpenSSH에서 제공하는 SFTP. 기존 FTP보다 보안에 강하다. TCP를 �
 ```
 
 # SSH motd(Message of The day) Setting
-1. 로그인 완료 시 나오는 리눅스 버전 없애기.
+- 로그인 완료 시 나오는 리눅스 버전 없애기.
 ![motd_ver](/assets/images/odroid/motd_ver.png)
 뭔가 보안상 없애고 싶다...
 
@@ -317,7 +317,7 @@ OpenSSH에서 제공하는 SFTP. 기존 FTP보다 보안에 강하다. TCP를 �
    # service sshd restart      // 이제 리눅스 버전 안나옴
 ```
 
-2. 로그인 시 나타나는 반겨주는 메시지.
+- 로그인 시 나타나는 반겨주는 메시지.
 ![motd_modify](/assets/images/odroid/motd_modify.png)
 
 ```shell
