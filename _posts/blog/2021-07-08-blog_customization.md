@@ -222,7 +222,7 @@ a {
 # Comment
 - 댓글기능을 추가해보자!
 - `discuss`는 무겁고 광고 때문에 별로라는 얘기를 들어서 `utterances`를 사용하기로 했다.
-- `utterances`는 github에 댓글을 `repository`에 저장한다.
+- `utterances`는 github에 댓글을 `repository`에 저장한다. github에 로그인해야 댓글을 달 수 있다.
 - [https://utteranc.es/](https://utteranc.es/)에서 `repo`와 `mapping` 방식을 작성한다.
   ![utterances](/assets/images/blog/utteranc.png)
 - `📂/_sass/minimal-mistakes/_page.scss`에 아래코드 추가.
