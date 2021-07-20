@@ -32,7 +32,7 @@ toc_sticky: true
 - microSD slot x 1
 
 ## Customize
-1. HDD : Toshiba HDD (?)
+1. HDD : Toshiba HDD (?) 1TB
 2. microSD : Samsung Pro Plus 64GB
    
    ![microSD](/assets/images/odroid/microSD.jpg)
