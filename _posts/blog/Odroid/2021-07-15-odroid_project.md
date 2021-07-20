@@ -267,7 +267,7 @@ HC2는 `WOL`을 지원하지 않기 때문에 `RTC Wakeup` 기능을 사용.
          00 1 * * * root /sh/rtcwakeup.sh
 ```
 
-# SFTP
+# 8. SFTP
 OpenSSH에서 제공하는 SFTP. 기존 FTP보다 보안에 강하다. TCP를 사용하여 조금 느리다.
 > SSH의 포트와 같은 포트를 사용한다. (ex) 1234
 
@@ -302,7 +302,7 @@ OpenSSH에서 제공하는 SFTP. 기존 FTP보다 보안에 강하다. TCP를 �
    # chmod 711 /var
 ```
 
-# SSH motd(Message of The day) Setting
+# 9. SSH motd(Message of The day) Setting
 - 로그인 완료 시 나오는 리눅스 버전 없애기.
 ![motd_ver](/assets/images/odroid/motd_ver.png)
 뭔가 보안상 없애고 싶다...
