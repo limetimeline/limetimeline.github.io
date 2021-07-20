@@ -197,3 +197,50 @@ a {
     @extend %tab-focus;
   }
 ```
+
+# Scroll Bar
+- 스크롤바의 모양과 색을 변경해보자!
+- `📂/_layouts/default.html`의 ``<head>``부분에 아래 코드를 넣어주면 된다.
+
+```html
+    <!-- 스크롤바 모양 및 색 변경 -->
+    <style> 
+      ::-webkit-scrollbar{width: 16px;}
+      /*스크롤바 배경색*/
+      ::-webkit-scrollbar-track {background-color:#bbffcf; border-radius: 16px;}
+      /*스크롤바 색*/
+      ::-webkit-scrollbar-thumb {background-color:#68ff4a; border-radius: 16px;}
+      /*마우스를 올렸을 때 스크롤바 색*/
+      ::-webkit-scrollbar-thumb:hover {background: #32cd32;}
+      ::-webkit-scrollbar-button:start:decrement,::-webkit-scrollbar-button:end:increment 
+      {
+          width:12px;height:12px;background:transparent;
+      } 
+    </style>
+```
+
+# Comment
+- 댓글기능을 추가해보자!
+- `discuss`는 무겁고 광고 때문에 별로라는 얘기를 들어서 `utterances`를 사용하기로 했다.
+- `utterances`는 github에 댓글을 `repository`에 저장한다.
+- [https://utteranc.es/](https://utteranc.es/)에서 `repo`와 `mapping` 방식을 작성한다.
+  ![utterances](/assets/images/blog/utterances.png)
+- `📂/_sass/minimal-mistakes/_page.scss`에 아래코드 추가.
+  
+```css
+/* 댓글창 사이즈 유지. */
+  .utterances {
+    max-width: 100% !important;
+  }
+```
+
+- `📂/_config.yml`에서 `repository`, `provider`, `utterances` 항목을 작성해준다.
+
+```yaml
+repository               : "limetimeline/comments" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes" 이거는 뭐 댓글 저장소.
+comments:
+  provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  utterances:
+    theme                : "github-light" # "github-light" (default), "github-dark" 테마(색)..
+    issue_term           : "pathname" # "pathname" (default) 걍 이렇게 적으면 되고..
+```
