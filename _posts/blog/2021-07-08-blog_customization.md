@@ -68,6 +68,19 @@ author_profile: true
 ---
 ```
 
+## - Tag
+- `📂/_pages/tag-archive.md` 생성
+
+```markdown
+---
+title: "Posts by Tag"
+permalink: /tags/
+layout: tags
+author_profile: true
+---
+```
+
+
 # favicon
 - 주소창에 아이콘을 적용해보자!
 
