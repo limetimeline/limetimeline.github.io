@@ -3,7 +3,6 @@ title:  "AramByeol Project"
 excerpt: "학교식당 식단표에 별점을 매기는 웹페이지."
 categories:
   - Project
-  - Web
 tags:
   - Project
   - Web
