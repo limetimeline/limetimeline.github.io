@@ -29,35 +29,36 @@ toc_sticky: true
 ├───schema.sql
 ├───user.py
 ├───📂/static
-|   ├───📂/static/css
-|   |   ├───📂/static/css/layout
-|   |   |   ├──footer.css
-|   |   |   └──header.css
-|   |   ├───📂/static/css/member
-|   |   |   ├──login.css
-|   |   |   └──register.css
-|   |   ├───📂/static/css/review
-|   |   |   └──review.css
-|   |   └──index.css
-|   ├───📂/static/js
-|   |   ├───📂/static/js/layout
-|   |   |   ├──footer.js
-|   |   |   └──header.js
-|   |   ├───📂/static/js/member
-|   |   |   ├──login.js
-|   |   |   └──register.js
-|   |   ├───📂/static/js/review
-|   |   |   └──review.js
-|   |   └─index.js
-|   └───📂/static/images
-|       ├──empty_star.png
-|       ├──full_star.png
-|       └──x_icon.png
+│   ├───📂/static/css
+│   │   ├───📂/static/css/layout
+│   │   │   ├──footer.css
+│   │   │   └──header.css
+│   │   ├───📂/static/css/member
+│   │   │   ├──login.css
+│   │   │   └──register.css
+│   │   ├───📂/static/css/review
+│   │   │   └──review.css
+│   │   └──index.css
+│   ├───📂/static/js
+│   │   ├───📂/static/js/layout
+│   │   │   ├──footer.js
+│   │   │   └──header.js
+│   │   ├───📂/static/js/member
+│   │   │   ├──login.js
+│   │   │   └──register.js
+│   │   ├───📂/static/js/review
+│   │   │   └──review.js
+│   │   └─index.js
+│   └───📂/static/images
+│       ├──empty_star.png
+│       ├──full_star.png
+│       └──x_icon.png
 └───📂/templates
     ├───📂/templates/member
-    |   ├───login.html
-    |   └───register.html
+    │   ├───login.html
+    │   └───register.html
     ├───📂/templates/review
-    |   └───review.html
+    │   └───review.html
     └───index.html
 ```
+
