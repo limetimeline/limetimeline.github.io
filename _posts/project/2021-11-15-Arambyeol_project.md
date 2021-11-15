@@ -30,43 +30,43 @@ toc_sticky: true
 # Directory Structure
 ```bash
 📂/
-├───__init__.py
-├───chromedriver
-├───db.py
-├───get_data.py
-├───schema.sql
-├───user.py
-├───📂/static
-│   ├───📂/static/css
-│   │   ├───📂/static/css/layout
-│   │   │   ├──footer.css
-│   │   │   └──header.css
-│   │   ├───📂/static/css/member
-│   │   │   ├──login.css
-│   │   │   └──register.css
-│   │   ├───📂/static/css/review
-│   │   │   └──review.css
-│   │   └──index.css
-│   ├───📂/static/js
-│   │   ├───📂/static/js/layout
-│   │   │   ├──footer.js
-│   │   │   └──header.js
-│   │   ├───📂/static/js/member
-│   │   │   ├──login.js
-│   │   │   └──register.js
-│   │   ├───📂/static/js/review
-│   │   │   └──review.js
+├─__init__.py
+├─chromedriver
+├─db.py
+├─get_data.py
+├─schema.sql
+├─user.py
+├─📂/static
+│   ├─📂/static/css
+│   │   ├─📂/static/css/layout
+│   │   │   ├─footer.css
+│   │   │   └─header.css
+│   │   ├─📂/static/css/member
+│   │   │   ├─login.css
+│   │   │   └─register.css
+│   │   ├─📂/static/css/review
+│   │   │   └─review.css
+│   │   └─index.css
+│   ├─📂/static/js
+│   │   ├─📂/static/js/layout
+│   │   │   ├─footer.js
+│   │   │   └─header.js
+│   │   ├─📂/static/js/member
+│   │   │   ├─login.js
+│   │   │   └─register.js
+│   │   ├─📂/static/js/review
+│   │   │   └─review.js
 │   │   └─index.js
-│   └───📂/static/images
-│       ├──empty_star.png
-│       ├──full_star.png
-│       └──x_icon.png
-└───📂/templates
-    ├───📂/templates/member
-    │   ├───login.html
-    │   └───register.html
-    ├───📂/templates/review
-    │   └───review.html
-    └───index.html
+│   └─📂/static/images
+│       ├─empty_star.png
+│       ├─full_star.png
+│       └─x_icon.png
+└─📂/templates
+    ├─📂/templates/member
+    │   ├─login.html
+    │   └─register.html
+    ├─📂/templates/review
+    │   └─review.html
+    └─index.html
 ```
 
