@@ -2,20 +2,22 @@
 title:  "AramByeol Project"
 excerpt: "학교식당 식단표에 별점을 매기는 웹페이지."
 categories:
-  - Project, Web
+  - Project
+  - Web
 tags:
-  - Project, Web, Scraping
+  - Project
+  - Web
+  - Scraping
 last_modified_at: 2021-11-15
 toc: true
 toc_sticky: true
 ---
 
+`학교 식당인 아람관 식단표 메뉴에 별점을 매기는 기능을 가진 웹페이지.`
+
+
 ![AramByeol!!](/assets/images/project/arambyeol/Logo.png){: width="300" height="300")
 
-
-``
-학교 식당인 아람관 식단표 메뉴에 별점을 매기는 기능을 가진 웹페이지.
-``
 
 # Develop things.
 - Database : MariaDB
