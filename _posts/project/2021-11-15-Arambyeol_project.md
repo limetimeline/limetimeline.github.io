@@ -20,35 +20,35 @@ toc_sticky: true
 - Server : OracleCloud free server (Ubuntu 20.04)
 
 # Directory Structure
-ㄴ`📂/`
-    ㄴ`__init__.py`
-    ㄴ`chromedriver`
-    ㄴ`db.py`
-    ㄴ`get_data.py`
-    ㄴ`schema.sql`
-    ㄴ`user.py`
-    ㄴ`📂/static`
-        ㄴ`📂/static/css`
-            ㄴ`📂/static/css/layout`
-                ㄴ`footer.css`
-                ㄴ`header.css`
-            ㄴ`📂/static/css/member`
-                ㄴ`login.css`
-                ㄴ`register.css`
-            ㄴ`📂/static/css/review`
-                ㄴ`review.css`
-            ㄴ`index.css`
-        ㄴ`📂/static/js`
-            ㄴ`📂/static/js/layout`
-                ㄴ`footer.js`
-                ㄴ`header.js`
-            ㄴ`📂/static/js/member`
-                ㄴ`login.js`
-                ㄴ`register.js`
-            ㄴ`📂/static/js/review`
-                ㄴ`review.js`
-            ㄴ`index.css`
-        ㄴ`📂/static/images`
-            ㄴ`empty_star.png`
-            ㄴ`full_star.png`
-            ㄴ`x_icon.png`
+`ㄴ📂/
+    ㄴ__init__.py
+    ㄴchromedriver
+    ㄴdb.py
+    ㄴget_data.py
+    ㄴschema.sql
+    ㄴuser.py
+    ㄴ📂/static
+        ㄴ📂/static/css
+            ㄴ📂/static/css/layout
+                ㄴfooter.css
+                ㄴheader.css
+            ㄴ📂/static/css/member
+                ㄴlogin.css
+                `register.css
+            ㄴ📂/static/css/review
+                ㄴreview.css
+            ㄴindex.css
+        ㄴ📂/static/js
+            ㄴ📂/static/js/layout
+                ㄴfooter.js
+                ㄴheader.js
+            ㄴ📂/static/js/member
+                ㄴlogin.js
+                ㄴregister.js
+            ㄴ📂/static/js/review
+                ㄴreview.js
+            ㄴindex.css
+        ㄴ📂/static/images
+            ㄴempty_star.png
+            ㄴfull_star.png
+            ㄴx_icon.png`
