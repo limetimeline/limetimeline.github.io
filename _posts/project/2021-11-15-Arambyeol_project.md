@@ -10,7 +10,8 @@ toc: true
 toc_sticky: true
 ---
 ![AramByeol!!](/assets/images/project/arambyeol/Logo.png){: width="300" height="300")
-학교 식당인 아람관 식단표 메뉴에 별점을 매기는 기능을 가진 웹페이지.
+
+`학교 식당인 아람관 식단표 메뉴에 별점을 매기는 기능을 가진 웹페이지.`
 
 # Develop things.
 - Database : MariaDB
