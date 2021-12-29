@@ -17,7 +17,9 @@ File Download 취약점이 존재하는 웹 서비스입니다.
 
 # Function analysis
 ![37_1](/assets/images/wargame/37_1.PNG)  
+
 ![37_2](/assets/images/wargame/37_2.PNG)  
+
 ![37_3](/assets/images/wargame/37_3.PNG)
 
 Upload My Memo에 파일명과 내용을 작성하면 Home에 업로드 되는듯하다.
