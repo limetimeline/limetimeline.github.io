@@ -15,9 +15,9 @@ File Download 취약점이 존재하는 웹 서비스입니다.
 flag.py를 다운로드 받으면 플래그를 획득할 수 있습니다.
 
 # Function analysis
-![AramByeol!!](/assets/images/wargame/37_1)
-![AramByeol!!](/assets/images/wargame/37_2)
-![AramByeol!!](/assets/images/wargame/37_3)
+![AramByeol!!](/assets/images/wargame/37_1.png)
+![AramByeol!!](/assets/images/wargame/37_2.png)
+![AramByeol!!](/assets/images/wargame/37_3.png)
 
 Upload My Memo에 파일명과 내용을 작성하면 Home에 업로드 되는듯하다.
 
@@ -101,10 +101,10 @@ if filename.find('..') != -1:
 추측할 수 있는 내용은 flag.py에 FLAG가 들어 있고 upload할 때 파일명을 ../flag.py라고 못한다는 것이다.
 
 # Solve
-![AramByeol!!](/assets/images/wargame/37_4)
+![AramByeol!!](/assets/images/wargame/37_4.png)
 
 /read?name=test.txt 부분에 파일이름이 적혀있다.
 그럼 여기를 ../flag.py라고 해주면 답이 나온다.
 
-![AramByeol!!](/assets/images/wargame/37_5)
+![AramByeol!!](/assets/images/wargame/37_5.png)
 
