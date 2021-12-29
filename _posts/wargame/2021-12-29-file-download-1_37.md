@@ -105,7 +105,7 @@ if filename.find('..') != -1:
 ![37_4](/assets/images/wargame/37_4.png)
 
 /read?name=test.txt 부분에 파일이름이 적혀있다.  
-그럼 여기를 ``../flag.py``라고 해주면 답이 나온다.
+test.txt를  ``../flag.py``라고 해주면 답이 나온다.
 
 ![37_5](/assets/images/wargame/37_5.png)
 
