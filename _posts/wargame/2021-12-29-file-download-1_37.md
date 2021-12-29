@@ -96,15 +96,15 @@ if filename.find('..') != -1:
             return render_template('upload_result.html', data='bad characters,,')
 ```
 
-문제의 핵심은 이 두 부분이다.
-분명 외부의 flag.py를 import하고 있으며 파일명 작성 시 '..'이 들어가면 'bad characters,,'라고 주의를 준다.
+문제의 핵심은 이 두 부분이다.  
+분명 외부의 flag.py를 import하고 있으며 파일명 작성 시 '..'이 들어가면 'bad characters,,'라고 주의를 준다.  
 
 추측할 수 있는 내용은 flag.py에 FLAG가 들어 있고 upload할 때 파일명을 ../flag.py라고 못한다는 것이다.
 
 # Solve
 ![37_4](/assets/images/wargame/37_4.png)
 
-/read?name=test.txt 부분에 파일이름이 적혀있다.
+/read?name=test.txt 부분에 파일이름이 적혀있다.  
 그럼 여기를 ../flag.py라고 해주면 답이 나온다.
 
 ![37_5](/assets/images/wargame/37_5.png)
