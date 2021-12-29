@@ -34,39 +34,40 @@ toc_sticky: true
 ├─chromedriver
 ├─db.py
 ├─get_data.py
+├─get_auth.py
 ├─schema.sql
 ├─user.py
 ├─📂/static
 │   ├─📂/static/css
-│   │   ├─📂/static/css/layout
-│   │   │   ├─footer.css
-│   │   │   └─header.css
+│   │   ├─📂/static/css/error
+│   │   │   └─error.css
 │   │   ├─📂/static/css/member
 │   │   │   ├─login.css
 │   │   │   └─register.css
-│   │   ├─📂/static/css/review
-│   │   │   └─review.css
 │   │   └─index.css
 │   ├─📂/static/js
-│   │   ├─📂/static/js/layout
-│   │   │   ├─footer.js
-│   │   │   └─header.js
+│   │   ├─📂/static/js/error
+│   │   │   └─error.js
 │   │   ├─📂/static/js/member
-│   │   │   ├─login.js
 │   │   │   └─register.js
-│   │   ├─📂/static/js/review
-│   │   │   └─review.js
 │   │   └─index.js
 │   └─📂/static/images
 │       ├─empty_star.png
+│       ├─error.png
+│       ├─favicon.ico
 │       ├─full_star.png
-│       └─x_icon.png
+│       ├─login.png
+│       ├─logo.png
+│       ├─logout.png
+│       ├─x_icon.png
+│       ├─뒤로가기.png
+│       └─홈_로고.png
 └─📂/templates
     ├─📂/templates/member
     │   ├─login.html
     │   └─register.html
-    ├─📂/templates/review
-    │   └─review.html
+    ├─📂/templates/error
+    │   └─error.html
     └─index.html
 ```
 
