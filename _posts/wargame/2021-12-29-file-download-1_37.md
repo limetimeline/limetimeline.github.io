@@ -12,7 +12,7 @@ toc_sticky: true
 ---
 
 # Question info.
-File Download 취약점이 존재하는 웹 서비스입니다.
+File Download 취약점이 존재하는 웹 서비스입니다.  
 flag.py를 다운로드 받으면 플래그를 획득할 수 있습니다.
 
 # Function analysis
@@ -105,7 +105,7 @@ if filename.find('..') != -1:
 ![37_4](/assets/images/wargame/37_4.png)
 
 /read?name=test.txt 부분에 파일이름이 적혀있다.  
-그럼 여기를 ../flag.py라고 해주면 답이 나온다.
+그럼 여기를 ``../flag.py``라고 해주면 답이 나온다.
 
 ![37_5](/assets/images/wargame/37_5.png)
 
