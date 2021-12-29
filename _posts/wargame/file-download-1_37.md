@@ -1,5 +1,6 @@
 ---
 title:  "37.file-download-1"
+excerpt: "37.file-download-1"
 categories:
   - wargame
 tags:
