@@ -8,6 +8,8 @@ toc_sticky: true
 
 # Introduce
 ## Education and Experience
+- 2022 ~ Present &emsp; Gyeongsang National Univ. AILab
+<br> &ensp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; Research Intern <https://ailab.gnu.ac.kr/>
 - 2018 ~ Present &emsp; Gyeongsang National University (GNU)
 <br> &ensp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; Bachelor of Science in Computer Science
 - 2019 ~ 2020 &emsp; Republic of Korea Air Force
