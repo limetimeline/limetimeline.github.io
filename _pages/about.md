@@ -19,7 +19,12 @@ toc_sticky: true
 - Computer Literacy Certificate Level-1 &nbsp; (컴퓨터활용능력 1급)
 <br> Computer User in the field of spreadsheet and database, Level-1
 
-
+## Career
+- 경상국립대학교 기숙사 식당 메뉴제공 및 별점 시스템 `Arambyeol`
+<br> &ensp; &emsp; &emsp; Backend(Server-Side) : Mysql(DB), Flask(Framework), Server(Ubuntu)
+<br> &ensp; &emsp; &emsp; Frontend : JavaScript(Ajax, jQuery...)
+<br> &ensp; &emsp; &emsp; https://arambyeol.kro.kr
+<br> &ensp; &emsp; &emsp; https://github.com/DonghyeonKang/AramByeol
 
 
 
