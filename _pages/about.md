@@ -21,10 +21,10 @@ toc_sticky: true
 
 ## Career
 - 경상국립대학교 기숙사 식당 메뉴제공 및 별점 시스템 `Arambyeol`
-<br> &ensp; &emsp; &emsp; Backend(Server-Side) : Mysql(DB), Flask(Framework), Server(Ubuntu)
+<br> &ensp; &emsp; &emsp; Backend(Server-Side) : Mysql(DB), Flask(Framework)
 <br> &ensp; &emsp; &emsp; Frontend : JavaScript(Ajax, jQuery...)
-<br> &ensp; &emsp; &emsp; https://arambyeol.kro.kr
-<br> &ensp; &emsp; &emsp; https://github.com/DonghyeonKang/AramByeol
+<br> &ensp; &emsp; &emsp; <http://arambyeol.kro.kr/>
+<br> &ensp; &emsp; &emsp; <https://github.com/DonghyeonKang/AramByeol>
 
 
 
