@@ -117,7 +117,7 @@ for _ in range(1000):
 
 ![atari14](/assets/images/RL/atari14.png)    
 Github에 있는 ``Atari_roms`` 안에 있는 파일들을 다 복사한다.   
-그후 지금 사용하고 있는 아나콘다 가상환경인 atari-test 폴더의 Lib – site-packages – atari_py – atari_roms 안에 복사한 롬파일을 모두 넣자. (이제 아타리 게임들을 실행할 수 있다!)
+그후 지금 사용하고 있는 아나콘다 가상환경인 atari-test 폴더의 ``Lib – site-packages – atari_py – atari_roms`` 안에 복사한 롬파일을 모두 넣자. (이제 아타리 게임들을 실행할 수 있다!)
    
 - GPU 사용하기
 
