@@ -13,7 +13,7 @@ toc_sticky: true
 
 # Question info.
 쿠키와 세션으로 인증 상태를 관리하는 간단한 로그인 서비스입니다.   
-``admin`` 계정으로 로그인에 성공하면 플래그를 획득할 수 있습니다.있습니다.
+``admin`` 계정으로 로그인에 성공하면 플래그를 획득할 수 있습니다.
 
 # Function analysis
 ![session-basic_1](/assets/images/wargame/session-basic_1.png)  
