@@ -22,11 +22,11 @@ toc_sticky: true
 <br> Computer User in the field of spreadsheet and database, Level-1
 
 ## Career   
-- 2022 독도 투어 : 디오라마를 이용한 증강현실 투어 시스템   
-<br> &ensp; &emsp; &emsp; Unity C#, Vuforia Engine, MetaShape, Blender   
+- 2022 독도 투어 : 디오라마를 이용한 증강현실 투어 시스템
+<br> &ensp; &emsp; &emsp; Unity C#, Vuforia Engine, MetaShape, Blender
 <br> &ensp; &emsp; &emsp; <https://www.youtube.com/watch?v=9jGE65B3wUg>   
-- 2022 코로나19 종식 기원 증강현실 디펜스 게임   
-<br> &ensp; &emsp; &emsp; Unity C#, Vuforia Engine   
+- 2022 코로나19 종식 기원 증강현실 디펜스 게임
+<br> &ensp; &emsp; &emsp; Unity C#, Vuforia Engine
 <br> &ensp; &emsp; &emsp; <https://www.youtube.com/watch?v=RVya6DjXIjs>   
 - 2021 경상국립대학교 기숙사 식당 메뉴제공 및 별점 시스템 `Arambyeol`
 <br> &ensp; &emsp; &emsp; Backend(Server-Side) : Mysql(DB), Flask(Framework)
