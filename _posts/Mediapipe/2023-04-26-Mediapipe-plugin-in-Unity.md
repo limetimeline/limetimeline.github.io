@@ -2,7 +2,7 @@
 title:  "Mediapipe plugin in Unity"
 excerpt: "Mediapipe plugin in Unity"
 categories:
-  - ComputerVision
+  - Mediapipe
 tags:
   - ComputerVision
   - MediaPipe
@@ -45,13 +45,13 @@ toc_sticky: true
 
 - **설치 경로 : `C:\msys64`**
 
-![Untitled](/assets/images/cv/2023-04-26-Mediapipe-plugin-in-Unity/1.png)
+![Untitled](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/1.png)
 
 - **환경 변수 설정 확인 (사용자)**
     - 자동으로 되어 있는지 확인.
         - `C:\msys64\usr\bin`
     
-    ![Untitled](/assets/images/cv/2023-04-26-Mediapipe-plugin-in-Unity/2.png)
+    ![Untitled](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/2.png)
     
 - **CMD를 열어서 아래 명령어 입력 (`C:\`에서 진행)**
     
@@ -71,9 +71,9 @@ toc_sticky: true
         - `C:\Users\durumary\AppData\Local\Programs\Python\Python37`
         - `C:\Users\durumary\AppData\Local\Programs\Python\Python37\Scripts`
 
-![Untitled](/assets/images/cv/2023-04-26-Mediapipe-plugin-in-Unity/3.png)
+![Untitled](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/3.png)
 
-![파이썬 버전 확인](/assets/images/cv/2023-04-26-Mediapipe-plugin-in-Unity/4.png)
+![파이썬 버전 확인](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/4.png)
 
 파이썬 버전 확인
 
@@ -86,7 +86,7 @@ toc_sticky: true
     - `유니버설 Windows 플랫폼 개발`
     - `Unity를 사용한 게임 개발`
     
-    ![Untitled](/assets/images/cv/2023-04-26-Mediapipe-plugin-in-Unity/5.png)
+    ![Untitled](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/5.png)
     
 
 ### Bazel 4.1.0([https://bazel.build/install/windows?hl=ko](https://bazel.build/install/windows?hl=ko)) 설치
@@ -112,7 +112,7 @@ toc_sticky: true
         
         - YES/ALL/NO/PRINT 중 물어보면 그냥 `ALL`
         
-        ![Bazel 버전 확인](/assets/images/cv/2023-04-26-Mediapipe-plugin-in-Unity/6.png)
+        ![Bazel 버전 확인](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/6.png)
         
         Bazel 버전 확인
         
@@ -123,9 +123,9 @@ toc_sticky: true
 
 - **다운로드 후 `C:/opencv` 로 Extract**
     
-    ![Untitled](/assets/images/cv/2023-04-26-Mediapipe-plugin-in-Unity/7.png)
+    ![Untitled](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/7.png)
     
-    ![Untitled](/assets/images/cv/2023-04-26-Mediapipe-plugin-in-Unity/8.png)
+    ![Untitled](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/8.png)
     
 
 ### NuGet 5.11.3([https://www.nuget.org/downloads](https://www.nuget.org/downloads)) 설치
@@ -135,13 +135,13 @@ toc_sticky: true
 - `C:\`에 `nuget` 폴더 만든 후 그 안에 `nuget.exe` 복사 붙여넣기.
     - `C:\nuget\nuget.exe`
         
-        ![Untitled](/assets/images/cv/2023-04-26-Mediapipe-plugin-in-Unity/9.png)
+        ![Untitled](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/9.png)
         
 - **환경 변수 설정 (사용자)**
     - 사용자 환경 변수에 Path 등록
         - `C:\nuget`
             
-            ![Untitled](/assets/images/cv/2023-04-26-Mediapipe-plugin-in-Unity/10.png)
+            ![Untitled](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/10.png)
             
 
 ### git clone **[MediaPipeUnityPlugin](https://github.com/Arham-Aalam/MediaPipeUnityPlugin)**
@@ -174,7 +174,7 @@ toc_sticky: true
         )
         ```
         
-        ![Untitled](/assets/images/cv/2023-04-26-Mediapipe-plugin-in-Unity/11.png)
+        ![Untitled](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/11.png)
         
 - **builde.py 수정(**`C:\MediaPipeUnityPlugin\build.py`)
     - `argparse.BooleanOptionalAction` → `‘store_true’`로 수정
@@ -189,7 +189,7 @@ toc_sticky: true
         uninstall_command_parser.add_argument('--protobuf', action='store_true', default=True)
         ```
         
-        ![Untitled](/assets/images/cv/2023-04-26-Mediapipe-plugin-in-Unity/12.png)
+        ![Untitled](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/12.png)
         
 
 ### **virtualenv 설치 및 가상 환경 설정**
@@ -222,28 +222,28 @@ toc_sticky: true
         - **BAZEL_VS (Visual Studio 2019 경로)**
             - `C:\Program Files (x86)\Microsoft Visual Studio\2019\Community`
                 
-                ![Untitled](/assets/images/cv/2023-04-26-Mediapipe-plugin-in-Unity/13.png)
+                ![Untitled](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/13.png)
                 
         - **BAZEL_VC (Visual Studio 2019/VC 경로)**
             - `C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC`
                 
-                ![Untitled](/assets/images/cv/2023-04-26-Mediapipe-plugin-in-Unity/14.png)
+                ![Untitled](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/14.png)
                 
         - **BAZEL_VC_FULL_VERSION (VC\Tools\MSVC 버전)**
             - `C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\**14.29.30133**`
                 
-                ![Untitled](/assets/images/cv/2023-04-26-Mediapipe-plugin-in-Unity/15.png)
+                ![Untitled](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/15.png)
                 
         - **WINSDK_FULL_VERSION**
             - **Visual Studio 2019 - Windows 10 SDK 버전 (10.0.19041.0)**
                 
-                ![Untitled](/assets/images/cv/2023-04-26-Mediapipe-plugin-in-Unity/16.png)
+                ![Untitled](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/16.png)
                 
         - **PYTHON_BIN_PATH (python.exe 경로)**
             - **가상 환경의 Scripts안에 들어 있다.**
             - `C:\MediaPipeUnityPlugin\env\Scripts\python.exe`
                 
-                ![Untitled](/assets/images/cv/2023-04-26-Mediapipe-plugin-in-Unity/17.png)
+                ![Untitled](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/17.png)
                 
             
 
@@ -262,11 +262,11 @@ toc_sticky: true
 
 - **유니티 버전은 `2022.3.7f1`로 테스트 했다.**
     
-    ![Untitled](/assets/images/cv/2023-04-26-Mediapipe-plugin-in-Unity/18.png)
+    ![Untitled](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/18.png)
     
 - **Face, Face Mesh, Holistic 등이 있지만 Hand만 테스트 했다.**
     
-    [MediaPipeUnityPlugin - DesktopDemo - Android - Unity 2021.3.7f1 Personal _DX11_ 2023-04-26 02-32-39.mp4](/assets/images/cv/2023-04-26-Mediapipe-plugin-in-Unity/1.mp4)
+    [MediaPipeUnityPlugin - DesktopDemo - Android - Unity 2021.3.7f1 Personal _DX11_ 2023-04-26 02-32-39.mp4](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/1.mp4)
     
 
 ---
