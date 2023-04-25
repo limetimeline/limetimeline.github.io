@@ -22,6 +22,7 @@ toc_sticky: true
 <br> Computer User in the field of spreadsheet and database, Level-1
 
 ## Career   
+- 2023 K-Shield Jr. 10기   
 - 2022 독도 투어 : 디오라마를 이용한 증강현실 투어 시스템
 <br> &ensp; &emsp; &emsp; Unity C#, Vuforia Engine, MetaShape, Blender
 <br> &ensp; &emsp; &emsp; <https://www.youtube.com/watch?v=9jGE65B3wUg>   
