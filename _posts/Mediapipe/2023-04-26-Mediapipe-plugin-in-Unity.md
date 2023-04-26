@@ -17,7 +17,7 @@ toc_sticky: true
 
 
 
-# **Install**
+# Install
 
 1. **MSYS2 설치**
 2. **Python 3.7.8 설치**
@@ -242,17 +242,16 @@ toc_sticky: true
 
 ### 빌드
 
-- **반드시 Bazel 환경 변수를 입력한 후 진행해야 한다.**
+- **반드시 Bazel 환경 변수를 입력한 후 진행해야 한다.**   
     
     ```bash
     python build.py build --desktop cpu --include_opencv_libs -v
-    ```
+    ```   
     
 
 ---
 
-# **Unity**
-
+# Unity   
 
 ---  
 
@@ -269,7 +268,7 @@ toc_sticky: true
 
 ---
 
-# **Reference**
+# Reference   
 https://github.com/Arham-Aalam/MediaPipeUnityPlugin   
 [https://www.youtube.com/watch?v=eZbi08dNCOU&t=277s](https://www.youtube.com/watch?v=eZbi08dNCOU&t=277s)   
 
