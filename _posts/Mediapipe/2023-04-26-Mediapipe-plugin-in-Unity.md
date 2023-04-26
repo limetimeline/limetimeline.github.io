@@ -15,7 +15,6 @@ toc_sticky: true
 
 
 
-# Mediapipe plugin in Unity
 
 
 # **Install**
@@ -30,10 +29,6 @@ toc_sticky: true
 8. **virtualenv 설치 및 가상 환경 설정**
 9. **Bazel 환경 변수 설정**
 10. **빌드**
-
-# Unity
-
-1. Unity
 
 ---  
 
@@ -256,7 +251,10 @@ toc_sticky: true
 
 ---
 
-### **유니티**
+# **Unity**
+
+
+### 유니티
 
 - **유니티 버전은 `2022.3.7f1`로 테스트 했다.**
     
@@ -269,7 +267,7 @@ toc_sticky: true
 
 ---
 
-# Reference. 
+# **Reference**
 https://github.com/Arham-Aalam/MediaPipeUnityPlugin   
 [https://www.youtube.com/watch?v=eZbi08dNCOU&t=277s](https://www.youtube.com/watch?v=eZbi08dNCOU&t=277s)   
 
