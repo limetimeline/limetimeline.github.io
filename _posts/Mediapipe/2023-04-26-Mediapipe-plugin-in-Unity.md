@@ -264,7 +264,7 @@ toc_sticky: true
     
 - **Face, Face Mesh, Holistic 등이 있지만 Hand만 테스트 했다.**
     
-    [MediaPipeUnityPlugin - DesktopDemo - Android - Unity 2021.3.7f1 Personal _DX11_ 2023-04-26 02-32-39.mp4](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/1.mp4)
+    [MediaPipeUnityPlugin - DesktopDemo - Android - Unity 2021.3.7f1 Personal _DX11_ 2023-04-26 02-32-39.mp4](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/1.gif)
     
 
 ---
