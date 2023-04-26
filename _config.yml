@@ -30,7 +30,6 @@ masthead_title           : # overrides the website title displayed in the masthe
 future                   : true
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 100
-future                   : true
 comments:
   provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
