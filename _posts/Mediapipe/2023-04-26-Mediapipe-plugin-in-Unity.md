@@ -17,7 +17,6 @@ toc_sticky: true
 
 # Mediapipe plugin in Unity
 
-# 목차
 
 # **Install**
 
@@ -36,8 +35,7 @@ toc_sticky: true
 
 1. Unity
 
-
-# Reference
+---  
 
 ### MSYS2([https://www.msys2.org/](https://www.msys2.org/)) 설치
 
@@ -271,7 +269,7 @@ toc_sticky: true
 
 ---
 
-# Reference   
+# Reference. 
 https://github.com/Arham-Aalam/MediaPipeUnityPlugin   
 [https://www.youtube.com/watch?v=eZbi08dNCOU&t=277s](https://www.youtube.com/watch?v=eZbi08dNCOU&t=277s)   
 
