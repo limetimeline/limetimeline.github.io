@@ -28,7 +28,7 @@ toc_sticky: false
 7. git clone [MediaPipeUnityPlugin](https://github.com/Arham-Aalam/MediaPipeUnityPlugin)   
 8. virtualenv 설치 및 가상 환경 설정   
 9. Bazel 환경 변수 설정   
-10.빌드   
+10. 빌드   
 
 ---  
 
