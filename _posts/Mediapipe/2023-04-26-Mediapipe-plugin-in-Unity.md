@@ -8,8 +8,8 @@ tags:
   - MediaPipe
   - Unity
 last_modified_at: 2023-04-26
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 ---
 
 
