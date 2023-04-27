@@ -19,16 +19,16 @@ toc_sticky: true
 
 # Install
 
-1. **MSYS2 설치**
-2. **Python 3.7.8 설치**
-3. **Visual Studio 2019 설치**
-4. **Bazel 4.1.0 설치**
-5. **OpenCV 3.4.10 설치**
-6. **NuGet 5.11.3 설치**
-7. **git clone [MediaPipeUnityPlugin](https://github.com/Arham-Aalam/MediaPipeUnityPlugin)**
-8. **virtualenv 설치 및 가상 환경 설정**
-9. **Bazel 환경 변수 설정**
-10. **빌드**
+1. MSYS2 설치   
+2. Python 3.7.8 설치   
+3. Visual Studio 2019 설치   
+4. Bazel 4.1.0 설치   
+5. OpenCV 3.4.10 설치   
+6. NuGet 5.11.3 설치   
+7. git clone [MediaPipeUnityPlugin](https://github.com/Arham-Aalam/MediaPipeUnityPlugin)   
+8. virtualenv 설치 및 가상 환경 설정   
+9. Bazel 환경 변수 설정   
+10.빌드   
 
 ---  
 
@@ -261,7 +261,7 @@ toc_sticky: true
     
 - **Face, Face Mesh, Holistic 등이 있지만 Hand만 테스트 했다.**
     
-    ![MediaPipeUnityPlugin - DesktopDemo - Android - Unity 2021.3.7f1 Personal _DX11_ 2023-04-26 02-32-39.mp4](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/1.gif)
+    ![MediaPipeUnityPlugin](/assets/images/mediapipe/2023-04-26-Mediapipe-plugin-in-Unity/1.gif)
     
 
 ---
