@@ -139,7 +139,7 @@ Hand Tracking 위주로 진행하였다.
 ![Untitled](/assets/images/mediapipe/2023-05-10-Mediapipe-plugin-in-Unity-windows-for-mobile/1.png)
 
 # 빌드 오류
-빌드가 되지 않는 경우 참고. `특히 Not Found Mediapipe`
+빌드가 되지 않는 경우 참고. `특히 Not Found Mediapipe`   
 Release Note : [MediaPipeUnityPlugin-Releases](https://github.com/homuler/MediaPipeUnityPlugin/releases)   
 
 ## 방법 1. (안되더라)
