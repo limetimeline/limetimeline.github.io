@@ -5,7 +5,7 @@ categories:
   - Mediapipe
 tags:
   - ComputerVision
-  - MediaPipe
+  - Mediapipe
   - Unity
 last_modified_at: 2023-04-26
 toc: false
