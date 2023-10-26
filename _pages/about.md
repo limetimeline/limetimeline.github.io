@@ -8,6 +8,7 @@ toc_sticky: true
 
 # Introduce
 ## Education and Experience
+- 2023.03 ~ 2023.05 &emsp; K-Shield Jr.10  
 - 2022 ~ Present &emsp; Gyeongsang National Univ. AILab
 <br> &ensp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; Research Intern <https://ailab.gnu.ac.kr/>
 - 2018 ~ Present &emsp; Gyeongsang National University (GNU)
@@ -20,9 +21,9 @@ toc_sticky: true
 - Linux Master Grade Ⅰ &nbsp; (리눅스마스터 1급)
 - Computer Literacy Certificate Level-1 &nbsp; (컴퓨터활용능력 1급)
 <br> Computer User in the field of spreadsheet and database, Level-1
+- Engineer Information Processing &nbsp; (정보처리기사)   
 
 ## Career   
-- 2023 K-Shield Jr. 10기   
 - 2022 독도 투어 : 디오라마를 이용한 증강현실 투어 시스템
 <br> &ensp; &emsp; &emsp; Unity C#, Vuforia Engine, MetaShape, Blender
 <br> &ensp; &emsp; &emsp; <https://www.youtube.com/watch?v=9jGE65B3wUg>   
@@ -38,7 +39,11 @@ toc_sticky: true
 ## Award   
 - 2022.11 제2회 경남소프트웨어경진대회 우수상  
 - 2022.10 메타버스 개발자 경진대회 우수상   
- 
+
+## Publication
+- Lee, S., Kim, S., Kim, S., Cho, H., & Choi, S. M. (2023). Flying Over Tourist Attractions: A Novel Augmented Reality Tourism System Using Miniature Dioramas. ACM SIGGRAPH ASIA 2023, Accepted.  
+- 이수원, 김상현, 김성원, 손엄지, 정보건, & 최상민. (2022). 코비드헌터+: 코로나19 종식 기원 증강현실 디펜스 게임. 한국디지털콘텐츠학회 논문지, 23(12), 2337-2344.  
+
 
 
 
