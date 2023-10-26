@@ -38,7 +38,7 @@ toc_sticky: true
 
 ## Award   
 - 2022.11 제2회 경남소프트웨어경진대회 우수상  
-- 2022.10 메타버스 개발자 경진대회 우수상   
+- 2022.10 2022 메타버스 개발자 경진대회 우수상   
 
 ## Publication
 - Lee, S., Kim, S., Kim, S., Cho, H., & Choi, S. M. (2023). Flying Over Tourist Attractions: A Novel Augmented Reality Tourism System Using Miniature Dioramas. ACM SIGGRAPH ASIA 2023, Accepted.  
