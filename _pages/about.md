@@ -17,11 +17,11 @@ toc_sticky: true
 <br> &ensp; &ensp; &ensp; &emsp; &emsp; &ensp; &ensp; Information Systems Management Soldier
 
 ## Certificates
-- Network Advisor Grade Ⅱ &nbsp; (네트워크관리사 2급)
+- Engineer Information Processing &nbsp; (정보처리기사)
 - Linux Master Grade Ⅰ &nbsp; (리눅스마스터 1급)
 - Computer Literacy Certificate Level-1 &nbsp; (컴퓨터활용능력 1급)
 <br> Computer User in the field of spreadsheet and database, Level-1
-- Engineer Information Processing &nbsp; (정보처리기사)   
+- Network Advisor Grade Ⅱ &nbsp; (네트워크관리사 2급)
 
 ## Projects   
 - 2023.06.01 ~ 2024.01.31 현실 세계를 축소한 디오라마 상에 현실 세계의 실시간 정보를 증강하는 증강현실 시스템 개발 (연구책임자: 이수원 교수님)
