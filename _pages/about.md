@@ -6,8 +6,7 @@ toc: true
 toc_sticky: true
 ---
 
-# Introduce
-## Education and Experience
+# Education and Experience
 - 2023.03 ~ 2023.05 &emsp; K-Shield Jr.10  
 - 2022 ~ 2024.02 &emsp; GNU. Augmented Intelligence Lab
 <br> &ensp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; Research Intern <https://ailab.gnu.ac.kr/>
@@ -16,14 +15,14 @@ toc_sticky: true
 - 2018.03 ~ 2024.02 &emsp; Gyeongsang National University (GNU)
 <br> &ensp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; Bachelor of Science in Computer Science
 
-## Certificates
+# Certificates
 - Engineer Information Processing &nbsp; (정보처리기사)
 - Linux Master Grade Ⅰ &nbsp; (리눅스마스터 1급)
 - Computer Literacy Certificate Level-1 &nbsp; (컴퓨터활용능력 1급)
 <br> Computer User in the field of spreadsheet and database, Level-1
 - Network Advisor Grade Ⅱ &nbsp; (네트워크관리사 2급)
 
-## Projects   
+# Projects
 - 2023.06.01 ~ 2024.01.31 현실 세계를 축소한 디오라마 상에 현실 세계의 실시간 정보를 증강하는 증강현실 시스템 개발 (연구책임자: 이수원 교수님)
 <br> &ensp; &emsp; &emsp; 울산·경남지역혁신플랫폼(USG) 스마트제조ICT사업단
 - 2022.01.01 ~ 2023.12.31 정밀 인터랙션을 위한 손동작 인식 기술 연구 (연구책임자: 이수원 교수님)
@@ -34,7 +33,7 @@ toc_sticky: true
 <br> &ensp; &emsp; &emsp; <http://arambyeol.kro.kr/>
 <br> &ensp; &emsp; &emsp; <https://github.com/DonghyeonKang/AramByeol>
 
-## Awards     
+# Awards
 - 2022.11 제2회 경남소프트웨어경진대회 우수상
 <br> &ensp; &emsp; &emsp; 2022 독도 투어 : 디오라마를 이용한 증강현실 투어 시스템
 <br> &ensp; &emsp; &emsp; <https://www.youtube.com/watch?v=9jGE65B3wUg>   
@@ -42,11 +41,11 @@ toc_sticky: true
 <br> &ensp; &emsp; &emsp; 2022 코로나19 종식 기원 증강현실 디펜스 게임
 <br> &ensp; &emsp; &emsp; <https://www.youtube.com/watch?v=RVya6DjXIjs>   
 
-## Publications
+# Publications
 - Lee, S., Kim, S., Kim, S., Cho, H., & Choi, S. M. (2023). Flying Over Tourist Attractions: A Novel Augmented Reality Tourism System Using Miniature Dioramas. In SIGGRAPH Asia 2023 Posters (pp. 1-2).
 - 이수원, 김상현, 김성원, 손엄지, 정보건, & 최상민. (2022). 코비드헌터+: 코로나19 종식 기원 증강현실 디펜스 게임. 한국디지털콘텐츠학회 논문지, 23(12), 2337-2344.  
 
-## Patents   
+# Patents
 - 이수원, 김성원, 김상현, 손엄지. (2023). 증강현실 기술을 이용한 악기 연주 연습을 제공하기 위한 시스템 및 그 방법 (경상국립대학교산학협력단)
 <br> &ensp; &emsp; &emsp; 출원일: 2023.11.09, 출원번호: 10-2023-0154577.
 
