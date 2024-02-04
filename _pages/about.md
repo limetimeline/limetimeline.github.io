@@ -25,10 +25,10 @@ toc_sticky: true
 # Projects
 - 2023.06.01 ~ 2024.01.31 현실 세계를 축소한 디오라마 상에 현실 세계의 실시간 정보를 증강하는 증강현실 시스템 개발 (연구책임자: 이수원 교수님)
 <br> &ensp; &emsp; &emsp; 울산·경남지역혁신플랫폼(USG) 스마트제조ICT사업단
-- 2022.01.01 ~ 2023.12.31 정밀 인터랙션을 위한 손동작 인식 기술 연구 (연구책임자: 이수원 교수님)
-<br> &ensp; &emsp; &emsp; 한국전자통신연구원(ETRI)
 - 2022.08.01 ~ 2023.02.15 CovidHunter: 코로나 종식 기원 증강현실 디펜스 게임 (연구책임자: 이수원 교수님)
 <br> &ensp; &emsp; &emsp; 울산·경남지역혁신플랫폼(USG) 스마트제조ICT사업단
+- 2022.01.01 ~ 2023.12.31 정밀 인터랙션을 위한 손동작 인식 기술 연구 (연구책임자: 이수원 교수님)
+<br> &ensp; &emsp; &emsp; 한국전자통신연구원(ETRI)
 - 2021 경상국립대학교 기숙사 식당 메뉴제공 및 별점 시스템 `Arambyeol`
 <br> &ensp; &emsp; &emsp; <http://arambyeol.kro.kr/>
 <br> &ensp; &emsp; &emsp; <https://github.com/DonghyeonKang/AramByeol>
@@ -39,7 +39,7 @@ toc_sticky: true
 <br> &ensp; &emsp; &emsp; <https://www.youtube.com/watch?v=9jGE65B3wUg>   
 - 2022.10 2022 메타버스 개발자 경진대회 우수상
 <br> &ensp; &emsp; &emsp; 2022 코로나19 종식 기원 증강현실 디펜스 게임
-<br> &ensp; &emsp; &emsp; <https://www.youtube.com/watch?v=RVya6DjXIjs>   
+<br> &ensp; &emsp; &emsp; <https://www.youtube.com/watch?v=iCaJnwwIj0o>   
 
 # Publications
 - Lee, S., Kim, S., Kim, S., Cho, H., & Choi, S. M. (2023). Flying Over Tourist Attractions: A Novel Augmented Reality Tourism System Using Miniature Dioramas. In SIGGRAPH Asia 2023 Posters (pp. 1-2).
