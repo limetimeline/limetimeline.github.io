@@ -7,13 +7,17 @@ toc_sticky: true
 ---
 
 # Education and Experience
+- 2024.03 ~ present &emsp; syscore Lab in Sejong University
+<br> &ensp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; <http://syscore.sejong.ac.kr/>
+- 2024.03 ~ present &emsp; M.S, Sejong University
+<br> &ensp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; Information Security
 - 2023.03 ~ 2023.05 &emsp; K-Shield Jr.10  
 - 2022 ~ 2024.02 &emsp; GNU. Augmented Intelligence Lab
 <br> &ensp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; Research Intern <https://ailab.gnu.ac.kr/>
 - 2019.01 ~ 2020.11 &emsp; Republic of Korea Air Force
 <br> &ensp; &ensp; &ensp; &emsp; &emsp; &ensp; &ensp; Information Systems Management Soldier
-- 2018.03 ~ 2024.02 &emsp; Gyeongsang National University (GNU)
-<br> &ensp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; Bachelor of Science in Computer Science
+- 2018.03 ~ 2024.02 &emsp; B.S, Gyeongsang National University (GNU)
+<br> &ensp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; Computer Science
 
 # Certificates
 - Engineer Information Processing &nbsp; (정보처리기사)
