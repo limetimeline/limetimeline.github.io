@@ -7,10 +7,6 @@ toc_sticky: true
 ---
 
 # Education and Experience
-- 2024.03 ~ present &emsp; syscore Lab in Sejong University
-<br> &ensp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; <http://syscore.sejong.ac.kr/>
-- 2024.03 ~ present &emsp; M.S, Sejong University
-<br> &ensp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; Information Security
 - 2023.03 ~ 2023.05 &emsp; K-Shield Jr.10  
 - 2022 ~ 2024.02 &emsp; GNU. Augmented Intelligence Lab
 <br> &ensp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; Research Intern <https://ailab.gnu.ac.kr/>
